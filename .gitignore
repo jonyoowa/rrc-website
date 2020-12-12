@@ -19,6 +19,9 @@
 .env.production.local
 .eslintcache
 
+# CNAME
+/public/CNAME
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
